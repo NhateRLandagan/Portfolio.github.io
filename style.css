@@ -1080,6 +1080,7 @@ section{
     color: #0f0f0f;
 }
 
+
 /* Responsive Media Query */
 @media (max-width: 1920px){
     .home .max-width{
